@@ -6,8 +6,6 @@
 
 ---
 
-
-
 ## 🌌 The Mission
 The Linux terminal—what I call the **"Disgusting Black Hole"**—can be a scary place for many users. I am **Adithya Denwth** (Little Photographer), a 13-year-old developer from School Pixel LK. 
 
@@ -22,7 +20,6 @@ I created **Kaspersky Titan** because no one should be forced to hit the "Black 
   * ✅ **Ubuntu** (All recent versions)
   * ✅ **Debian**
   * ✅ Most **Ubuntu/Debian-based distributions**.
-* **Other OS:** While it is prioritized for the standard KFL Linux version, if you test it on other distros, please let me know your results!
 
 ---
 
@@ -44,10 +41,27 @@ Open your terminal in your downloads folder and run:
 ```bash
 sudo dpkg -i Kaspersky_Titan_Installer.deb
 sudo apt-get install -f
+3. How to Launch
+To open the GUI and escape the "Black Hole," type the following command in your terminal:
 
-
-### to open
-Open your terminal in your downloads folder and run:
-```bash
+Bash
 sudo kaspersky-titan
+(Note: Running with sudo is required so the app has permission to manage your system security engine.)
 
+🤝 Help Me Develop This!
+I am only 13, and I want to make this project world-class. I am asking the developer community to help me:
+
+Optimize Code: Help me refine the Python backend.
+
+Expand Support: Help me test on even more Linux distributions.
+
+UI Design: Help make the interface even more beautiful.
+
+☕ Support My Journey
+If you believe in what I’m building, you can support my education and future projects here:
+
+Support me on Ko-fi: Donate here
+
+Official Website: School Pixel LK
+
+"Photography captures the world, but code changes it." — Adithya Denwth
