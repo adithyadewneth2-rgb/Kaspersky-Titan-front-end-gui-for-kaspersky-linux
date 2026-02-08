@@ -6,6 +6,8 @@
 
 ---
 
+
+
 ## 🌌 The Mission
 The Linux terminal—what I call the **"Disgusting Black Hole"**—can be a scary place for many users. I am **Adithya Denwth** (Little Photographer), a 13-year-old developer from School Pixel LK. 
 
@@ -42,3 +44,10 @@ Open your terminal in your downloads folder and run:
 ```bash
 sudo dpkg -i Kaspersky_Titan_Installer.deb
 sudo apt-get install -f
+
+
+### to open
+Open your terminal in your downloads folder and run:
+```bash
+sudo kaspersky-titan
+
