@@ -47,14 +47,8 @@ Open your terminal in your downloads folder and run:
 
 ---
 
-## 📥 Installation & Launch
+## 📥 open & Launch
 
-### 1. Download the Installer
-Download the latest package here: 
-[Download Kaspersky_Titan_Installer.deb](https://github.com/adithyadewneth2-rgb/Kaspersky-Titan-front-end-gui-for-kaspersky-linux/releases/latest)
-
-### 2. Install the Package
-Open your terminal in your downloads folder and run:
 ```bash
-sudo dpkg -i Kaspersky_Titan_Installer.deb
-sudo apt-get install -f
+sudo  kaspersky-titan
+
