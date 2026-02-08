@@ -13,9 +13,10 @@ I created **Kaspersky Titan** because no one should be forced to hit the "Black 
 
 ---
 
-## ⚠️ Important Requirement
-**You MUST have Kaspersky for Linux (KFL) installed on your PC.**
-Titan is a front-end interface. It commands the KFL engine. If KFL is not installed, this GUI will have nothing to control!
+## ⚠️ Important Requirements & Compatibility
+* **KFL Required:** You **MUST** have Kaspersky for Linux (KFL) installed on your PC. Titan is a front-end interface that commands the KFL engine.
+* **Target OS:** I designed and prioritized this specifically for the **Standard Linux version of KFL**. 
+* **Compatibility Note:** I cannot guarantee that it will work on specialized or non-standard Linux distributions yet. If you try it on other versions, please let me know if it works!
 
 ---
 
@@ -23,17 +24,18 @@ Titan is a front-end interface. It commands the KFL engine. If KFL is not instal
 * **No More Typing:** Control every aspect of Kaspersky Linux with a single click.
 * **Python Powered:** Fast, efficient, and open for community improvement.
 * **Debian Ready:** Compiled into a `.deb` package for instant installation.
-* **User Friendly:** Designed so that anyone, even if they aren't a Linux expert, can stay protected.
 
 ---
 
-## 📥 Installation
+## 📥 Installation & Download
 
-1.  **Install KFL:** Ensure Kaspersky for Linux is already installed on your system.
-2.  **Download Titan:** Download the latest `.deb` package from the [Releases](https://github.com/adithyadewneth2-rgb/Kaspersky-Titan-front-end-gui-for-kaspersky-linux/releases) section.
-3.  **Run the Installer:**
+1.  **Download the Installer:**
+    [Click here to download Kaspersky_Titan_Installer.deb](https://github.com/adithyadewneth2-rgb/Kaspersky-Titan-front-end-gui-for-kaspersky-linux/releases/latest)
+
+2.  **Run the Installer:**
+    Open your terminal in the download folder and run:
     ```bash
-    sudo dpkg -i titan-gui-kaspersky.deb
+    sudo dpkg -i Kaspersky_Titan_Installer.deb
     sudo apt-get install -f
     ```
 
@@ -42,7 +44,7 @@ Titan is a front-end interface. It commands the KFL engine. If KFL is not instal
 ## 🤝 Help Me Develop This!
 I am only 13, and I want to make this project world-class. I am asking the developer community to help me:
 * **Improve the Code:** Help me optimize the Python backend.
-* **Design:** Make the UI even more beautiful.
+* **Cross-Distro Support:** Help me make this work on all versions of Linux.
 * **Bug Hunting:** Help me find and fix errors to make it stable for everyone.
 
 ---
