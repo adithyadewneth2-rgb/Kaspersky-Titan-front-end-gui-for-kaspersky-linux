@@ -15,8 +15,12 @@ I created **Kaspersky Titan** because no one should be forced to hit the "Black 
 
 ## ⚠️ Important Requirements & Compatibility
 * **KFL Required:** You **MUST** have Kaspersky for Linux (KFL) installed on your PC. Titan is a front-end interface that commands the KFL engine.
-* **Prioritized Version:** I developed this specifically for the **Standard Linux version of KFL**. 
-* **Compatibility Note:** I do not know yet if it works on other specialized distributions. If you test it on different versions, please let me know!
+* **Verified Operating Systems:** I have personally tested this and confirmed it works on:
+  * ✅ **Linux Mint 23.2**
+  * ✅ **Ubuntu** (All recent versions)
+  * ✅ **Debian**
+  * ✅ Most **Ubuntu/Debian-based distributions**.
+* **Other OS:** While it is prioritized for the standard KFL Linux version, if you test it on other distros, please let me know your results!
 
 ---
 
