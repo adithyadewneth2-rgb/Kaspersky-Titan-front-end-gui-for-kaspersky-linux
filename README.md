@@ -41,34 +41,20 @@ Download the latest package here:
 ### 2. Install the Package
 Open your terminal in your downloads folder and run:
 
+     ```bash
+     sudo dpkg -i Kaspersky_Titan_Installer.deb
+      sudo apt-get install -f
 
-3. How to Launch
-To open the GUI and escape the "Black Hole," type the following command in your terminal:
+---
 
-Bash
-sudo kaspersky-titan
-Note: Running with sudo is required so the app has permission to manage your system security engine.
+## 📥 Installation & Launch
 
-🤝 Help Me Develop This!
-I am only 13, and I want to make this project world-class. I am asking the developer community to help me:
+### 1. Download the Installer
+Download the latest package here: 
+[Download Kaspersky_Titan_Installer.deb](https://github.com/adithyadewneth2-rgb/Kaspersky-Titan-front-end-gui-for-kaspersky-linux/releases/latest)
 
-Optimize Code: Help me refine the Python backend.
-
-Expand Support: Help me test on even more Linux distributions.
-
-UI Design: Help make the interface even more beautiful.
-
-☕ Support My Journey
-If you believe in what I’m building, you can support my education and future projects here:
-
-Support me on Ko-fi: Donate here
-
-Official Website: School Pixel LK
-
-"Photography captures the world, but code changes it." — Adithya Dewneth
-
-
+### 2. Install the Package
+Open your terminal in your downloads folder and run:
 ```bash
 sudo dpkg -i Kaspersky_Titan_Installer.deb
 sudo apt-get install -f
-[
